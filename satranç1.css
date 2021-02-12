@@ -1,0 +1,22 @@
+.siyah{
+    background-color: rgb(5, 20, 224)
+}
+td{
+    text-align: center;
+    height: 100;
+    width: 100;
+}
+.harfler{
+    vertical-align: bottom;
+}
+.ertan{
+    text-align: right;
+    vertical-align: middle;
+}
+.beyaz{
+    background-color:burlywood;
+}
+
+.animate__animated{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
